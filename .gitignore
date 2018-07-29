@@ -1,13 +1,3 @@
 # Arduino
-# Libraries
-*.lib
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-
-# Executables
-*.exe
-*.out
-*.app
+Wire.h
+wiinunchuck.h
